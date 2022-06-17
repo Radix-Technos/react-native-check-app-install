@@ -1,8 +1,8 @@
 export const APP_LIST = {
     "whatsapp": {pkgName: "com.whatsapp", urlScheme: "whatsapp", urlParams: "app"}, // fa
-    "whatsapp business": {pkgName: "com.whatsapp.w4b", urlScheme: "", urlParams: ""}, // fa
+    "whatsapp_business": {pkgName: "com.whatsapp.w4b", urlScheme: "", urlParams: ""}, // fa
     "facebook": {pkgName: "com.facebook.katana", urlScheme: "fb", urlParams: "requests"}, // fa: facebook-official
-    "facebook messenger": {pkgName: "com.facebook.orca", urlScheme: "fb-messenger", urlParams: "user-thread/{user-id}"}, // fa: facebook
+    "messenger": {pkgName: "com.facebook.orca", urlScheme: "fb-messenger", urlParams: "user-thread/{user-id}"}, // fa: facebook
     "skype": {pkgName: "com.skype.raider", urlScheme: "skype", urlParams: "echo123?call"}, // fa
     "wechat": {pkgName: "com.tencent.mm", urlScheme: "weixin", urlParams: "dl/chat"}, // fa
     "snapchat": {pkgName: "com.snapchat.android", urlScheme: "snapchat", urlParams: "?u=foo"}, // fa
@@ -33,17 +33,17 @@ export const APP_LIST = {
     "outlook": { pkgName: "com.microsoft.office.outlook", urlScheme: "outlook", urlParams: "" },
     "telegram": { pkgName: "org.telegram.messenger", urlScheme: "telegram", urlParams: "" },
     "prime": { pkgName: "com.amazon.avod.thirdpartyclien", urlScheme: "prime", urlParams: "" },
-    "youtube music": { pkgName: "com.google.android.apps.youtube.music", urlScheme: "", urlParams: "" },
+    "youtube_music": { pkgName: "com.google.android.apps.youtube.music", urlScheme: "", urlParams: "" },
     "tiktok": { pkgName: "com.zhiliaoapp.musically", urlScheme: "", urlParams: "" },
-    "google meet": { pkgName: "com.google.android.apps.meetings", urlScheme: "", urlParams: "" },
+    "google_meet": { pkgName: "com.google.android.apps.meetings", urlScheme: "", urlParams: "" },
     "teams": { pkgName: "com.microsoft.teams", urlScheme: "", urlParams: "" },
     "aliexpress": { pkgName: "com.alibaba.aliexpresshd", urlScheme: "", urlParams: "" },
     "shopee": { pkgName: "com.shopee.br", urlScheme: "", urlParams: "" },
-    "99 taxi": { pkgName: "com.taxis99", urlScheme: "", urlParams: "" },
-    "uber eats": { pkgName: "com.ubercab.eats", urlScheme: "", urlParams: "" },
+    "taxi_99": { pkgName: "com.taxis99", urlScheme: "", urlParams: "" },
+    "uber_eats": { pkgName: "com.ubercab.eats", urlScheme: "", urlParams: "" },
     "ifood": { pkgName: "br.com.brainweb.ifood", urlScheme: "", urlParams: "" },
     "rappi": { pkgName: "com.grability.rappi", urlScheme: "", urlParams: "" },
-    "mercado livre": { pkgName: "com.mercadolibre", urlScheme: "", urlParams: "" },
+    "mercado_livre": { pkgName: "com.mercadolibre", urlScheme: "", urlParams: "" },
     "magalu": { pkgName: "com.luizalabs.mlapp", urlScheme: "", urlParams: "" },
     "enjoei": { pkgName: "br.com.enjoei.app", urlScheme: "", urlParams: "" },
     "americanas": { pkgName: "com.b2w.americanas", urlScheme: "", urlParams: "" },
