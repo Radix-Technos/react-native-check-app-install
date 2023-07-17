@@ -55,7 +55,6 @@ export const APP_LIST = {
     "banco inter" : { pkgName: "br.com.intermedium", urlScheme: "", urlParams: "" },
     "bradesco" : { pkgName: "com.bradesco", urlScheme: "", urlParams: "" },
     "caixa econômica" : { pkgName: "br.com.gabba.Caixa", urlScheme: "", urlParams: "" },
-    "calendar" : { pkgName: "com.google.android.calendar", urlScheme: "", urlParams: "" },
     "call" : { pkgName: "com.google.android.dialer", urlScheme: "", urlParams: "" },
     "correios" : { pkgName: "br.com.correios.preatendimento", urlScheme: "", urlParams: "" },
     "google calendar" : { pkgName: "com.google.android.calendar", urlScheme: "", urlParams: "" },
