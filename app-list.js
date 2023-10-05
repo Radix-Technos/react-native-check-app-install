@@ -33,7 +33,7 @@ export const APP_LIST = {
     "google": { pkgName: "com.google.android.googlequicksearchbox", urlScheme: "google", urlParams: "" },
     "outlook": { pkgName: "com.microsoft.office.outlook", urlScheme: "outlook", urlParams: "" },
     "telegram": { pkgName: "org.telegram.messenger", urlScheme: "telegram", urlParams: "" },
-    "prime": { pkgName: "com.amazon.avod.thirdpartyclien", urlScheme: "prime", urlParams: "" },
+    "prime": { pkgName: "com.amazon.avod.thirdpartyclient", urlScheme: "prime", urlParams: "" },
     "youtube music": { pkgName: "com.google.android.apps.youtube.music", urlScheme: "", urlParams: "" },
     "tiktok": { pkgName: "com.zhiliaoapp.musically", urlScheme: "", urlParams: "" },
     "google meet": { pkgName: "com.google.android.apps.meetings", urlScheme: "", urlParams: "" },
