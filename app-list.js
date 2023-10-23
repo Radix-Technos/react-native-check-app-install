@@ -8,6 +8,7 @@ export const APP_LIST = {
     "wechat": {pkgName: "com.tencent.mm", urlScheme: "weixin", urlParams: "dl/chat"}, // fa
     "snapchat": {pkgName: "com.snapchat.android", urlScheme: "snapchat", urlParams: "?u=foo"}, // fa
     "X": {pkgName: "com.twitter.android", urlScheme: "twitter", urlParams: "messages"}, // fa
+    "twitter": {pkgName: "com.twitter.android", urlScheme: "twitter", urlParams: "messages"}, // fa
     "youtube": {pkgName: "com.google.android.youtube", urlScheme: "youtube", urlParams: "watch?v=dQw4w9WgXcQ"}, // fa
     "netflix": {pkgName: "com.netflix.mediaclient", urlScheme: "nflx", urlParams: ""}, 
     "instagram": {pkgName: "com.instagram.android", urlScheme: "instagram", urlParams: "app"}, // fa
