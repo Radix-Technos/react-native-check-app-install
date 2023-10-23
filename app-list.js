@@ -7,7 +7,7 @@ export const APP_LIST = {
     "skype": {pkgName: "com.skype.raider", urlScheme: "skype", urlParams: "echo123?call"}, // fa
     "wechat": {pkgName: "com.tencent.mm", urlScheme: "weixin", urlParams: "dl/chat"}, // fa
     "snapchat": {pkgName: "com.snapchat.android", urlScheme: "snapchat", urlParams: "?u=foo"}, // fa
-    "X": {pkgName: "com.twitter.android", urlScheme: "twitter", urlParams: "messages"}, // fa
+    "x": {pkgName: "com.twitter.android", urlScheme: "twitter", urlParams: "messages"}, // fa
     "twitter": {pkgName: "com.twitter.android", urlScheme: "twitter", urlParams: "messages"}, // fa
     "youtube": {pkgName: "com.google.android.youtube", urlScheme: "youtube", urlParams: "watch?v=dQw4w9WgXcQ"}, // fa
     "netflix": {pkgName: "com.netflix.mediaclient", urlScheme: "nflx", urlParams: ""}, 
