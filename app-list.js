@@ -70,4 +70,10 @@ export const APP_LIST = {
     "shein" : { pkgName: "com.zzkko", urlScheme: "", urlParams: "" },
     "ticktick" : { pkgName: "com.ticktick.task", urlScheme: "", urlParams: "" },
     "todoist" : { pkgName: "com.todoist", urlScheme: "", urlParams: "" },
+    "viber" : { pkgName: "com.viber.voip", urlScheme: "", urlParams: "" },
+    "gpay" : { pkgName: "com.google.android.apps.walletnfcrel", urlScheme: "", urlParams: "" }, 
+    "google chat" : { pkgName: "com.google.android.apps.dynamite", urlScheme: "", urlParams: "" }, 
+    "google drive" : { pkgName: "com.google.android.apps.docs", urlScheme: "", urlParams: "" },
+    "google maps" : { pkgName: "com.google.android.apps.maps", urlScheme: "", urlParams: "" },
+    "discord" : { pkgName: "com.discord", urlScheme: "", urlParams: "" },
 };
