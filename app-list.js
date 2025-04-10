@@ -63,6 +63,8 @@ export const APP_LIST = {
     "itau" : { pkgName: "com.itau", urlScheme: "", urlParams: "" },
     "microsoft to do" : { pkgName: "com.microsoft.todos", urlScheme: "", urlParams: "" },
     "mormaii smartwatches" : { pkgName: "br.com.grupotechnos.mormaiismartwatches", urlScheme: "", urlParams: "" },
+    "mormaii smartwatches" : { pkgName: "br.com.grupotechnos.mormaiismartwatches.debug", urlScheme: "", urlParams: "" },
+    "mormaii smartwatches" : { pkgName: "br.com.grupotechnos.mormaiismartwatches.qa", urlScheme: "", urlParams: "" },
     "neon" : { pkgName: "br.com.neon", urlScheme: "", urlParams: "" },
     "next" : { pkgName: "br.com.bradesco.next", urlScheme: "", urlParams: "" },
     "nubank" : { pkgName: "com.nu.production", urlScheme: "", urlParams: "" },
@@ -76,4 +78,7 @@ export const APP_LIST = {
     "google drive" : { pkgName: "com.google.android.apps.docs", urlScheme: "", urlParams: "" },
     "google maps" : { pkgName: "com.google.android.apps.maps", urlScheme: "", urlParams: "" },
     "discord" : { pkgName: "com.discord", urlScheme: "", urlParams: "" },
+    "technos connect" : { pkgName: "br.com.grupotechnos.technosconnect", urlScheme: "", urlParams: "" },
+    "technos connect" : { pkgName: "br.com.grupotechnos.technosconnect.debug", urlScheme: "", urlParams: "" },
+    "technos connect" : { pkgName: "br.com.grupotechnos.technosconnect.qa", urlScheme: "", urlParams: "" },
 };
