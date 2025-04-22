@@ -16,6 +16,16 @@ class AppInstalledChecker {
         });
     }
 
+    static getInstalledApps() {
+        return new Promise((resolve, reject) => {
+            CheckPackageInstallation.getInstalledApps((installedApps) => {
+                resolve(installedApps);
+            }).catch((err) => {
+                reject(err);
+            });
+        });
+    }
+
     static checkURLScheme(proto, query) {
         return new Promise((resolve, reject) => {
             Linking
